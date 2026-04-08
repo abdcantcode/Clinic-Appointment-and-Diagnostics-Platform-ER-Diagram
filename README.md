@@ -6,9 +6,9 @@ The design focuses on clear relationships, proper PK–FK connections, and scala
 
 ## ER Diagram
 
-![ER Diagram](ER Diagram.jpeg)
+![ER Diagram](ERDiagram.jpeg)
 
-## Supporting Diagrams
+## Workflow
 
 ![Diagram 1](Diagram1.jpeg)
 ![Diagram 2](Diagram2.jpeg)
